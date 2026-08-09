@@ -33,7 +33,7 @@ flatpak install flathub io.missioncenter.MissionCenter -y
 # flatpak install flathub com.usebottles.bottles -y
 
 # Distrobox GUI
-flatpak install flathub io.github.dvlv.boxbuddyrs -y
+# flatpak install flathub io.github.dvlv.boxbuddyrs -y
 
 # Minimal notes app
 flatpak install flathub com.vixalien.sticky -y
@@ -59,22 +59,22 @@ flatpak install flathub io.github.alainm23.planify -y
 
 
 # Apps
-flatpak install flathub org.filezillaproject.Filezilla -y
+#flatpak install flathub org.filezillaproject.Filezilla -y
 flatpak install flathub com.discordapp.Discord -y
 flatpak install flathub org.gimp.GIMP -y
 flatpak install flathub md.obsidian.Obsidian -y
 #flatpak install flathub com.makemkv.MakeMKV -y
-flatpak install flathub org.jellyfin.JellyfinDesktop -y
+#flatpak install flathub org.jellyfin.JellyfinDesktop -y
 flatpak install flathub org.videolan.VLC -y
 #flatpak install flathub app.zen_browser.zen -y
 flatpak install flathub com.github.johnfactotum.Foliate -y
-flatpak install flathub com.obsproject.Studio -y
-flatpak install flathub org.inkscape.Inkscape -y
+#flatpak install flathub com.obsproject.Studio -y
+#flatpak install flathub org.inkscape.Inkscape -y
 flatpak install flathub org.prismlauncher.PrismLauncher -y
 flatpak install flathub org.signal.Signal -y
 flatpak install flathub com.protonvpn.www -y
 flatpak install flathub io.github.Faugus.faugus-launcher -y
 flatpak install flathub app.fluxer.Fluxer -y
-flatpak install flathub xyz.safeworlds.hiit -y
-flatpak install flathub com.github.wwmm.easyeffects -y
+#flatpak install flathub xyz.safeworlds.hiit -y
+#flatpak install flathub com.github.wwmm.easyeffects -y
 flatpak install flathub org.localsend.localsend_app -y
